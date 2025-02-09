@@ -1,5 +1,7 @@
 # 🌦️ Weather CLI
 
+[📜 English](README.md) | [📜 Português](README-PT.md)
+
 Weather CLI é uma ferramenta de linha de comando simples para obter informações meteorológicas em tempo real usando a WeatherAPI. O projeto permite configurar uma API Key e selecionar um idioma para exibição dos dados.
 
 ![Demonstração](demo.gif)
