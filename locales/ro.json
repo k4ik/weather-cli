@@ -1,0 +1,26 @@
+{
+    "menu-setup": {
+        "message": "Selectați o opțiune",
+        "choices": ["Cheie API", "Limbi"],
+        "menu-key": {
+            "message": "Creați un cont pe https://www.weatherapi.com/ și obțineți cheia",
+            "prompt": "Introduceți cheia API:",
+            "confirmation": "Cheia API a fost salvată"
+        },
+        "menu-lang": {
+            "message": "Selectați o limbă",
+            "confirmation": "Preferința de limbă a fost salvată"
+        }
+    },
+    "weather-info": {
+        "location": "📍Locație: {name}, {region}, {country} ({lat}, {lon})",
+        "localtime": "🕒 Ora locală: {localtime}",
+        "temperature": "🌡️ Temperatura: {temp}°C (Temperatura resimțită: {feels_like}°C)",
+        "condition": "⛅ Condiție: {condition}",
+        "humidity": "💧 Umiditate: {humidity}%",
+        "pressure": "⚖️ Presiune: {pressure} mb",
+        "wind": "💨 Vânt: {wind_speed} km/h {wind_dir}",
+        "precipitation": "🌧️ Precipitații: {precipitation} mm",
+        "uv": "🔆 Indice UV: {uv_index}"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "menu-setup": {
+        "message": "Seleziona un'opzione",
+        "choices": ["Chiave API", "Lingue"],
+        "menu-key": {
+            "message": "Crea un account su https://www.weatherapi.com/ e ottieni la tua chiave",
+            "prompt": "Inserisci la tua chiave API:",
+            "confirmation": "Chiave API salvata"
+        },
+        "menu-lang": {
+            "message": "Seleziona una lingua",
+            "confirmation": "Preferenza della lingua salvata"
+        }
+    },
+    "weather-info": {
+        "location": "📍 Posizione: {name}, {region}, {country} ({lat}, {lon})",
+        "localtime": "🕒 Ora locale: {localtime}",
+        "temperature": "🌡️ Temperatura: {temp}°C (Percepita: {feels_like}°C)",
+        "condition": "⛅ Condizioni: {condition}",
+        "humidity": "💧 Umidità: {humidity}%",
+        "pressure": "⚖️ Pressione: {pressure} mb",
+        "wind": "💨 Vento: {wind_speed} km/h {wind_dir}",
+        "precipitation": "🌧️ Precipitazioni: {precipitation} mm",
+        "uv": "🔆 Indice UV: {uv_index}"
+    }
+}

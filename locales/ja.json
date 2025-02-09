@@ -1,0 +1,26 @@
+{
+    "menu-setup": {
+        "message": "オプションを選択してください",
+        "choices": ["APIキー", "言語"],
+        "menu-key": {
+            "message": "https://www.weatherapi.com/ でアカウントを作成し、APIキーを取得してください",
+            "prompt": "APIキーを入力してください:",
+            "confirmation": "APIキーが保存されました"
+        },
+        "menu-lang": {
+            "message": "言語を選択してください",
+            "confirmation": "言語設定が保存されました"
+        }
+    },
+    "weather-info": {
+        "location": "📍場所: {name}、{region}、{country} ({lat}, {lon})",
+        "localtime": "🕒 現地時間: {localtime}",
+        "temperature": "🌡️ 気温: {temp}°C (体感温度: {feels_like}°C)",
+        "condition": "⛅ コンディション: {condition}",
+        "humidity": "💧 湿度: {humidity}%",
+        "pressure": "⚖️ 気圧: {pressure} mb",
+        "wind": "💨 風速: {wind_speed} km/h {wind_dir}",
+        "precipitation": "🌧️ 降水量: {precipitation} mm",
+        "uv": "🔆 UV指数: {uv_index}"
+    }
+}

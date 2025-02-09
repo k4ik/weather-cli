@@ -1,0 +1,26 @@
+{
+    "menu-setup": {
+        "message": "اختر خيارًا",
+        "choices": ["مفتاح API", "اللغات"],
+        "menu-key": {
+            "message": "أنشئ حسابًا على https://www.weatherapi.com/ واحصل على مفتاحك",
+            "prompt": "أدخل مفتاح API الخاص بك:",
+            "confirmation": "تم حفظ مفتاح API"
+        },
+        "menu-lang": {
+            "message": "اختر لغة",
+            "confirmation": "تم حفظ تفضيل اللغة"
+        }
+    },
+    "weather-info": {
+        "location": "📍الموقع: {name}, {region}, {country} ({lat}, {lon})",
+        "localtime": "🕒 الوقت المحلي: {localtime}",
+        "temperature": "🌡️ درجة الحرارة: {temp}°C (درجة الحرارة المحسوسة: {feels_like}°C)",
+        "condition": "⛅ الحالة: {condition}",
+        "humidity": "💧 الرطوبة: {humidity}%",
+        "pressure": "⚖️ الضغط: {pressure} mb",
+        "wind": "💨 سرعة الرياح: {wind_speed} km/h {wind_dir}",
+        "precipitation": "🌧️ الأمطار: {precipitation} mm",
+        "uv": "🔆 مؤشر الأشعة فوق البنفسجية: {uv_index}"
+    }
+}
